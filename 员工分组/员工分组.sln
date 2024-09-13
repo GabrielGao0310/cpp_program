@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "员工分组", "员工分组\员工分组.vcxproj", "{7793AAB5-5E1E-4720-AC75-36B2DCFD91E7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7793AAB5-5E1E-4720-AC75-36B2DCFD91E7}.Debug|x64.ActiveCfg = Debug|x64
+		{7793AAB5-5E1E-4720-AC75-36B2DCFD91E7}.Debug|x64.Build.0 = Debug|x64
+		{7793AAB5-5E1E-4720-AC75-36B2DCFD91E7}.Debug|x86.ActiveCfg = Debug|Win32
+		{7793AAB5-5E1E-4720-AC75-36B2DCFD91E7}.Debug|x86.Build.0 = Debug|Win32
+		{7793AAB5-5E1E-4720-AC75-36B2DCFD91E7}.Release|x64.ActiveCfg = Release|x64
+		{7793AAB5-5E1E-4720-AC75-36B2DCFD91E7}.Release|x64.Build.0 = Release|x64
+		{7793AAB5-5E1E-4720-AC75-36B2DCFD91E7}.Release|x86.ActiveCfg = Release|Win32
+		{7793AAB5-5E1E-4720-AC75-36B2DCFD91E7}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D3779795-C960-4FE0-9CC6-329129323B51}
+	EndGlobalSection
+EndGlobal
